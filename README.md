@@ -1,6 +1,6 @@
 # Welcome to the RSPN Streamer Tool page, made by the RSPN team.
 
-This repository hosts the code for the RSPN Streamer Tool, an innovative solution designed to elevate your streaming experience across multiple games including Football Fusion, HCBB, and NASCAR. Whether you're streaming sports simulations or racing events, our tool offers a comprehensive set of features to engage with your audience and enhance your streams with these scripts, so you can use stadiums, custom field decals, and cameras.
+This repository hosts the code for the RSPN Streamer Tool, an inwnovative solution designed to elevate your streaming experience across multiple games including Football Fusion, HCBB, and NASCAR. Whether you're streaming sports simulations or racing events, our tool offers a comprehensive set of features to engage with your audience and enhance your streams with these scripts, so you can use stadiums, custom field decals, and cameras.
 
 ## Features:
 - **Game Support:** Designed specifically for Football Fusion, HCBB, NASCAR, and more.
